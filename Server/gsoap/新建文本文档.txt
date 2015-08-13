@@ -1,0 +1,3 @@
+wsdl2h -I"F:\Desktop\Gradu Design\SmartLibrary\TempApp\gsoap-2.8\gsoap\WS" -o test.h http://localhost:51060/webservice/Service.asmx?WSDL
+
+soapcpp2 -i "F:\Desktop\Gradu Design\SmartLibrary\TempApp\gsoap-2.8\gsoap\import" test.h

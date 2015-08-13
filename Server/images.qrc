@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/addbook.png</file>
+        <file>img/addreader.png</file>
+        <file>img/background.png</file>
+        <file>img/backup.png</file>
+        <file>img/book.png</file>
+        <file>img/bookdelepng.png</file>
+        <file>img/booklist.png</file>
+        <file>img/booksezrchicon.png</file>
+        <file>img/calenda.png</file>
+        <file>img/delreader.png</file>
+        <file>img/firstpage.png</file>
+        <file>img/listnow.png</file>
+        <file>img/listreader.png</file>
+        <file>img/loginicon.png</file>
+        <file>img/logininback.png</file>
+        <file>img/passwd.png</file>
+        <file>img/qiehua.png</file>
+        <file>img/reader.png</file>
+        <file>img/record.png</file>
+        <file>img/recordana.png</file>
+        <file>img/search.png</file>
+        <file>img/updata.png</file>
+        <file>img/welcome.png</file>
+        <file>img/loginback.jpg</file>
+        <file>img/set.png</file>
+        <file>img/recordaction.png</file>
+        <file>img/infor.png</file>
+        <file>img/xujie.png</file>
+        <file>img/modify.png</file>
+    </qresource>
+</RCC>
