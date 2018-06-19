@@ -21,8 +21,7 @@ It has operations
 
 Those functions can be used to both readers and books.
 
-Users can generate QR Code for themselves and of course for books ( WebQRC's function),
-, then readers can automatically login the system by scanning the QR Code through their mobile phone (WebLogin's function).
+Users can generate QR Code for themselves and of course for books ( WebQRC's function),then readers can automatically login the system by scanning the QR Code through their mobile phone (WebLogin's function).
 By scanning the books' QR Code, then can review the summary of the books.You can manage plenty of informations of readers and books here in a very convenient way, and it works efficiently.
 
 Of course, the system still have some demerits.
